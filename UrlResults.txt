@@ -1,0 +1,22 @@
+Top 10 highest frequency words are: 
+
+the->197
+and->194
+of->136
+to->134
+in->93
+for->62
+mason->48
+is->44
+that->42
+engineering->39
+
+Statistics for individual URL are:
+
+URL1 fetched in 1.088 seconds
+URL2 fetched in 0.318 seconds
+URL3 fetched in 0.088 seconds
+URL4 fetched in 0.07 seconds
+URL5 fetched in 0.21 seconds
+
+Total end to end run executed in 2.077 seconds
